@@ -9,7 +9,7 @@ caption:
   subtitle: Getting started with our Blog + Our Vision
   thumbnail: https://images.freeimages.com/images/large-previews/421/polar-bear-calisthenics-1394792.jpg
 ---
-Use this area to describe your project. **Markdown** supported. This entry (project1.md) uses links for the image sources. All other projects in the portfolio use local images. Both work just fine! Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
+text **Markdown geht auch**
 
 {:.list-inline}
 - Date: January 2017
