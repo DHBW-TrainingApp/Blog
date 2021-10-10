@@ -17,12 +17,12 @@ en: &DEFAULT_EN
       section: blog
     - title: "Code"
       section: code
-    - title: "Timeline"
-      section: timeline
+#    - title: "Timeline"
+#      section: timeline
     - title: "Team"
       section: team
-    - title: "More"
-      section: more
+    - title: "Contact"
+      section: contact
 en-US:
   <<: *DEFAULT_EN
 en-CA:

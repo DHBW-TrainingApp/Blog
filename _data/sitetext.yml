@@ -92,7 +92,7 @@ en: &DEFAULT_EN
 
   team:
     title: "OUR AMAZING TEAM"
-    text: ""
+    text: " "
     section: team
     people:
       - name: "Moritz1234567"
