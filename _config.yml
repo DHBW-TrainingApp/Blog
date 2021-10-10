@@ -15,10 +15,10 @@
 remote_theme: raviriley/agency-jekyll-theme
 
 url    : "" # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: "/workout-log" # the subpath of your site, e.g. /blog
+baseurl: "/Blog" # the subpath of your site, e.g. /blog
 
 title      : workout-log
-email      : your-email@example.com #this is also the email contact forms will go to
+email      : owork013@gmail.com #this is also the email contact forms will go to
 description: ""
 author     : 
 # logo:     #optional, defaults to site title
