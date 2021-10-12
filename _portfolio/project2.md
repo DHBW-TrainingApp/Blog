@@ -1,12 +1,12 @@
 ---
-title: WEEK 1 
-subtitle: Our Vision 
+title: WEEK 2 
+subtitle: Technologies
 
 
 caption:
-  title: Week 1
-  subtitle: Our Vision 
-  thumbnail: https://images.freeimages.com/images/large-previews/421/polar-bear-calisthenics-1394792.jpg
+  title: Week 2
+  subtitle: Technologies 
+  thumbnail: https://i.morioh.com/2019/11/28/fb48ed925553.jpg
 ---
 
 > “If you persevere long enough, if you do the right things long enough, the right things will happen.” ~ Manon Rheaume (the first woman to play in an American men’s pro sports league)
