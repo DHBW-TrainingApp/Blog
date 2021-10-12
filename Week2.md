@@ -27,7 +27,7 @@ In order to achive this we want to implement the following features:
 <li>see a statistic of your progress (weight etc.)</li>
 <li>achieve challenges or create your own</li>
 <li>have a calendar to plan your workouts or challenges</li>
-</ol><br><br>
+</ol><br>
 
 Furthermore, we thought about features which would be nice to have:
 <br><br>
