@@ -14,7 +14,8 @@ caption:
 <img src="https://cfcdn.aerzteblatt.de/bilder/2020/06/img243528501.jpg" alt="lockdown" width="500"/>
 
 <div align="left">
-Since we already reported on our project last time, today we are introducing you to our features that we want to implement in our app. 
+Since we already reported on our project last time, today we are introducing you to our features that we 
+  want to implement in our app and which technology we will use for it. 
 <br>
 <br>
 Starting with our main objective, we'd like you to be able to track your personal fitness progresses.
@@ -23,7 +24,7 @@ In order to achive this we want to implement the following features:
 <br>
 <ol>
 <li>create your personalized training schedule</li>
-<li>see a statistic of your progress (weight etc.)<li>
+<li>see a statistic of your progress (weight etc.)</li>
 <li>achieve challenges or create your own</li>
 <li>have a calendar to plan your workouts or challenges</li>
 </ol><br><br>
@@ -32,13 +33,17 @@ Furthermore, we thought about features which would be nice to have:
 <br><br>
 <ol>
 <li>User-Management-System</li>
-<li>possibility to follow other people<li>
+<li>possibility to follow other people</li>
 <li>being able to share your progress</li>
-<li>meal planning and tracking your nutritional values<li>
+<li>meal planning and tracking your nutritional values</li>
 <li>track your walking distance</li>
 </ol>
 <br><br>
 
+<h1>Technologies</h1>
+
+  
+  
   
   
 We look forward to realize our ideas and welcome your feedback.<br><br>
