@@ -42,9 +42,15 @@ Furthermore, we thought about features which would be nice to have:
 
 <h1>Technologies</h1>
 
-  
-  
-  
+For the frontend we will use HTML, CSS, JavaScript and Angular.
+
+Especially for the additional functions we also need a backend. Here we will use Node.js, MongoDB/SQL and Firebase.
+
+Angular is a platform for building mobile and desktop web applications.
+Apache Cordova is a mobile application development framework created by Nitobi.
+Node.js is a JavaScript runtime built on Chrome's V8 JavaScript engine.
+
+<br>
   
 We look forward to realize our ideas and welcome your feedback.<br><br>
 
