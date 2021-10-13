@@ -42,15 +42,17 @@ Furthermore, we thought about features which would be nice to have:
 
 <h1>Technologies</h1>
 
-For the frontend we will use HTML, CSS, JavaScript and Angular.
+For the frontend we will use Cordova, Ionic, HTML, CSS, JavaScript and Angular.
 
 Especially for the additional functions we also need a backend. Here we will use Node.js, MongoDB/SQL and Firebase.
 
 Angular is a platform for building mobile and desktop web applications.
 Apache Cordova is a mobile application development framework created by Nitobi.
 Node.js is a JavaScript runtime built on Chrome's V8 JavaScript engine.
+Cordova wraps your HTML/JavaScript app into a native container which can access the device functions of several platforms.
+Ionic Framework is an app development platform which build amazing cross-platform mobile, web, and desktop apps all with one shared code base and open-web standards.
 
-<br>
+<br><br><br>
   
 We look forward to realize our ideas and welcome your feedback.<br><br>
 
