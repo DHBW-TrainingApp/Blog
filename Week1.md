@@ -9,7 +9,7 @@ caption:
   thumbnail: https://images.freeimages.com/images/large-previews/421/polar-bear-calisthenics-1394792.jpg
 ---
 
-> “If you persevere long enough, if you do the right things long enough, the right things will happen.” ~ Manon Rheaume (the first woman to play in an American men’s pro sports league)
+<b><h4>“If you persevere long enough, if you do the right things long enough, the right things will happen.” ~ Manon Rheaume (the first woman to play in an American men’s pro sports league)</h4></b>
 
 <img src="https://cfcdn.aerzteblatt.de/bilder/2020/06/img243528501.jpg" alt="lockdown" width="500"/>
 
