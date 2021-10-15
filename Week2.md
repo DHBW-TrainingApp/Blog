@@ -9,7 +9,7 @@ caption:
   thumbnail: https://images.freeimages.com/images/large-previews/421/polar-bear-calisthenics-1394792.jpg
 ---
 
-<b><h4>“Don’t be afraid of failure. This is the way to succeed.” ~ LeBron James</h4></b>
+<h4><b>“Don’t be afraid of failure. This is the way to succeed.” ~ LeBron James</b></h4>
 
 <img src="./bilder/85195d79.png" alt="lockdown" width="500"/>
 
