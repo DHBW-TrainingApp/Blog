@@ -11,7 +11,7 @@ caption:
 
 “Don’t be afraid of failure. This is the way to succeed.” ~ LeBron James
 
-<img src="https://cfcdn.aerzteblatt.de/bilder/2020/06/img243528501.jpg" alt="lockdown" width="500"/>
+<img src="./bilder/85195d79.png" alt="lockdown" width="500"/>
 
 <div align="left">
 Since we already reported on our project last time, today we are introducing you to our features that we 
@@ -44,12 +44,10 @@ Furthermore, we thought about features which would be nice to have:
 
 For the frontend we will use Cordova, Ionic, HTML, CSS, JavaScript and Angular.
 
-Especially for the additional functions we also need a backend. Here we will use Node.js, MongoDB/SQL and Firebase.
+Especially for the additional functions we also need a backend. Here we will use MongoDB/SQL and Firebase.
 
 Angular is a platform for building mobile and desktop web applications.
-Apache Cordova is a mobile application development framework created by Nitobi.
-Node.js is a JavaScript runtime built on Chrome's V8 JavaScript engine.
-Cordova wraps your HTML/JavaScript app into a native container which can access the device functions of several platforms.
+Firebase is a development platform for mobile and web applications. It provides tools and infrastructure via a software development kit that are intended to enable developers to provide functions more easily and more efficiently using programming interfaces on various platforms.
 Ionic Framework is an app development platform which build amazing cross-platform mobile, web, and desktop apps all with one shared code base and open-web standards.
 
 <br><br><br>
