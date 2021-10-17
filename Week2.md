@@ -53,10 +53,10 @@ Ionic Framework is an app development platform which build amazing cross-platfor
 <br><br><br>
   
   
-<h1>Technologies</h1>
+<h1>Roles</h1>
   
 Our team consists of three members: Moritz, Rouven and Sebastian. We decided to stick with the disciplines of RUP roles and not to go too deep with our role descriptions:
-  
+ <br> 
   <b>Sebastian</b>:  Project Management, Implementation, Requirement, Business Modelling <br>
 <b>Rouven</b>: Implementation, Test, Analysis and Design, Requirement, Blog and Review Manager <br>
 <b>Moritz</b>: Implementation, Deployment, Environment, Configuration and Change Management <br>
