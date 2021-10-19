@@ -42,9 +42,9 @@ Furthermore, we thought about features which would be nice to have:
 
 <h1>Technologies</h1>
 
-For the frontend we will use Cordova, Ionic, HTML, CSS, JavaScript and Angular.
+For the frontend we will use Capatior, Ionic, HTML, CSS, TypeScript and Angular.
 
-Especially for the additional functions we also need a backend. Here we will use MongoDB/SQL and Firebase.
+Especially for the additional functions we also need a backend. Here we will use Firebase.
 
 Angular is a platform for building mobile and desktop web applications.
 Firebase is a development platform for mobile and web applications. It provides tools and infrastructure via a software development kit that are intended to enable developers to provide functions more easily and more efficiently using programming interfaces on various platforms.
