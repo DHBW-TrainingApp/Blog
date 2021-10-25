@@ -30,6 +30,7 @@ caption:
   <br>
   Some exampels you can find there:
   <br>
+  <br>
  <ol>
 <li>Scope</li>
 <li>Overall Desciption</li>
@@ -38,7 +39,7 @@ caption:
 </ol><br>
   
   
-  so if your want to learn more about the workout-log here is the link for oure <a href="docs/SoftwareRequirementSpecification.md">SRS</a>
+  so if your want to learn more about the workout-log here is the link for oure <a href="https://github.com/DHBW-TrainingApp/Blog/blob/main/docs/SoftwareRequirementSpecification.md">SRS</a>
   
 
 All the best,<br><br>
