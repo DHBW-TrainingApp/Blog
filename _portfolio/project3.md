@@ -6,7 +6,7 @@ subtitle: Use Case Diagram
 caption:
   title: Week 3
   subtitle: Use Case Diagram 
-  thumbnail: https://github.com/DHBW-TrainingApp/Blog/blob/f540cfcbc54c161648cd762733f8cdf17882e1a2/docs/UseCaseDiagramCP.png
+  thumbnail: ../docs/UseCaseDiagramCP.png
 ---
 
 > “If you persevere long enough, if you do the right things long enough, the right things will happen.” ~ Manon Rheaume (the first woman to play in an American men’s pro sports league)
