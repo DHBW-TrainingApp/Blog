@@ -26,6 +26,7 @@ caption:
   the green section is also the part where diffrent users can compare there progress and find 
   inspiration and idols.
   <br>
+  <br>
   We also created this week our SRS where we discriped ourer prozesses in more deatil. 
   <br>
   Some exampels you can find there:
