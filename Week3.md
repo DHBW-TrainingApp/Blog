@@ -14,35 +14,36 @@ caption:
   <img src="./docs/UseCaseDiagramCP.png" alt="lockdown" width="700"/>
 
 <div align="left">
-  This week we created our usecase diaagram for the Workout-Log application.
+  This week, we created our use case diagram for the Workout-Log application.
   
 
   
-  As you can see here we have two actors a passiv visitor and a active user.
-  The red highlighted part is only accesabel by the active user 
-  and contains all the features for training and documenaion off your progress.
-  The green part is the profile where all the stats off the Active user are pressented
-  and is visabel for other pasiv users.
-  the green section is also the part where diffrent users can compare there progress and find 
+  As you can see here we have two actors, a passive visitor and an active user.
+  The red highlighted part is only accessible by the active user 
+  and contains all the features for training and documentation off your progress.
+  The green part is the profile where all the stats off the Active user are presented
+  and is visible for other passive users.
+  The green section is also the part where different users can compare their progress and find 
   inspiration and idols.
+
   <br>
   <br>
-  We also created this week our SRS where we discriped ourer prozesses in more deatil. 
+  We also created this week our SRS where we discriped our process in more detail. 
   <br>
-  Some exampels you can find there:
+  Here is a brief overview of the topics discussed in our SRS:
   <br>
   <br>
  <ol>
 <li>Scope</li>
-<li>Overall Desciption</li>
+<li>Overall Description</li>
 <li>Functionality</li>
 <li>Interfaces</li>
 </ol><br>
   
   
-  so if your want to learn more about the workout-log here is the link for oure <a href="https://github.com/DHBW-TrainingApp/Blog/blob/main/docs/SoftwareRequirementSpecification.md">SRS</a>
+So if your want to learn more about the workout-log here is the link for our <a href="https://github.com/DHBW-TrainingApp/Blog/blob/main/docs/SoftwareRequirementSpecification.md">SRS</a>
   
-
+<br><br>
 All the best,<br><br>
 
 Your workout-log team!<br><br><br><br><br>
