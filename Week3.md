@@ -11,12 +11,12 @@ caption:
 
 <h4><b>“I don't eat for taste, I eat for function.”</b></h4>
 
-<img src="./bilder/85195d79.png" alt="lockdown" width="500"/>
+  <img src="./docs/UseCaseDiagramCP.png" alt="lockdown" width="500"/>
 
 <div align="left">
   This week we created our usecase diaagram for the Workout-Log application.
   
-  <img src=".docs/UseCaseDiagramCP.png" alt="lockdown" width="500"/>
+
   
   As you can see here we have two actors a passiv visitor and a active user.
   The red highlighted part is only accesabel by the active user 
