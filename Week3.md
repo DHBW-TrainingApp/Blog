@@ -11,7 +11,7 @@ caption:
 
 <h4><b>“I don't eat for taste, I eat for function.”</b></h4>
 
-  <img src="./docs/UseCaseDiagramCP.png" alt="lockdown" width="500"/>
+  <img src="./docs/UseCaseDiagramCP.png" alt="lockdown" width="700"/>
 
 <div align="left">
   This week we created our usecase diaagram for the Workout-Log application.
