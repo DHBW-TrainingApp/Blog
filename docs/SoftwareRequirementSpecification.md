@@ -84,8 +84,6 @@ Our app will allow the user to track their progress in order to get the necessar
 
 ![OUCD](./UseCaseDiagramCP.png)
 
-- Green: Planned till end of december
-- Yellow: Planned till end of june
 
 ### 2.3 Technology Stack
 The technology we use is:
