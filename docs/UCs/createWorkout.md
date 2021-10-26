@@ -17,7 +17,7 @@ Every logged-in user can create new workouts. To create a workout the creator mu
 - User clicks on "close" to close the form without saving the workout.
 
 ### 2.1.1 Activity Diagram
-![Organization Application Activity Diagram](../Diagrams/UCs/CreateOperationActivityDiagramm.jpg)
+![Organization Application Activity Diagram](./CreateWorkout.svg)
 
 ### 2.1.2 Mock-up
 ![Create Operation Form Wireframe](../Pictures/Wireframes/CreateOperation.png)
