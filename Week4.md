@@ -13,10 +13,10 @@ caption:
 This week, we we specified two use cases in more detail.<br><br>
   
 One is for creating new workouts or editing existing ones. You can find it here: https://github.com/DHBW-TrainingApp/Blog/blob/main/docs/UCs/createWorkout.md<br>
-![](./docs/UCs/CreateWorkout.svg)
+<img src="./docs/UCs/CreateWorkout.svg"/>
 
 And another one deals with the procedure of a started interactive workout. The link towards this Use Case Specification is: https://github.com/DHBW-TrainingApp/Blog/blob/main/docs/UCs/Training.md
-![](./docs/UCs/training.svg)
+<img src="./docs/UCs/training.svg"/>
     
 <br><br>
 All the best,<br><br>
