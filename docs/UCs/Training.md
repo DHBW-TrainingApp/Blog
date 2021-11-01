@@ -19,7 +19,7 @@ User clicks on "finished" to close the workout with saving it to the workout-log
 ![Organization Application Activity Diagram](./training.svg)
 
 ### 2.1.2 Mock-up
-<img src="https://github.com/DHBW-TrainingApp/Blog/blob/main/bilder/StartWorkout1" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="200" height="400" />
+<img src="https://github.com/DHBW-TrainingApp/Blog/blob/main/bilder/StartWorkout1.PNG" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="200" height="400" />
 <img src="https://github.com/DHBW-TrainingApp/Blog/blob/main/bilder/StartWorkout2.PNG" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="200" height="400" />
 
 
