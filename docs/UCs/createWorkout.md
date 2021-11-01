@@ -20,8 +20,10 @@ Every logged-in user can create new workouts. To create a workout the creator mu
 ![Organization Application Activity Diagram](./CreateWorkout.svg)
 
 ### 2.1.2 Mock-up
+<img src="https://github.com/DHBW-TrainingApp/Blog/blob/main/bilder/WorkoutManage1.PNG" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="200" height="400" />
+<img src="https://github.com/DHBW-TrainingApp/Blog/blob/main/bilder/WorkoutManage2.PNG" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="200" height="400" />
 ![Create Operation Form Wireframe](../../bilder/WorkoutManage1.PNG)
-![Create Operation Form Wireframe](../../bilder/WorkoutManage2.PNG |width=100)
+![Create Operation Form Wireframe](../../bilder/WorkoutManage2.PNG)
 
 
 ### 2.1.3 Narrative
