@@ -19,8 +19,8 @@ User clicks on "finished" to close the workout with saving it to the workout-log
 ![Organization Application Activity Diagram](./training.svg)
 
 ### 2.1.2 Mock-up
-![Create Operation Form Wireframe](../bilder/StartWorkout1.PNG)
-![Create Operation Form Wireframe](../bilder/StartWorkout2.PNG)
+![Create Operation Form Wireframe](../../bilder/StartWorkout1.PNG)
+![Create Operation Form Wireframe](../../bilder/StartWorkout2.PNG)
 
 
 ### 2.1.3 Narrative
