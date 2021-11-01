@@ -21,7 +21,7 @@ Every logged-in user can create new workouts. To create a workout the creator mu
 
 ### 2.1.2 Mock-up
 ![Create Operation Form Wireframe](../../bilder/WorkoutManage1.PNG)
-![Create Operation Form Wireframe](../../bilder/WorkoutManage2.PNG)
+![Create Operation Form Wireframe](../../bilder/WorkoutManage2.PNG |width=150)
 
 
 ### 2.1.3 Narrative
