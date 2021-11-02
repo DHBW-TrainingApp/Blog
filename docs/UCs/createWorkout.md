@@ -24,7 +24,7 @@ Every logged-in user can create new workouts. To create a workout the creator mu
 
 
 ### 2.1.2 Mock-up
-<img src="https://github.com/DHBW-TrainingApp/Blog/blob/main/bilder/WorkoutManage1.PNG" " width="200" height="400" />
+<img src="https://github.com/DHBW-TrainingApp/Blog/blob/main/bilder/WorkoutManage1.PNG" width="200" height="400" />
 <img src="https://github.com/DHBW-TrainingApp/Blog/blob/main/bilder/WorkoutManage2.PNG"  width="200" height="400" />
 
 
