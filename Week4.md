@@ -1,15 +1,17 @@
 ---
-title: WEEK 3
+title: WEEK 4
 subtitle: Use Case Diagram
 
 
 caption:
-  title: Week 3
+  title: Week 4
   subtitle: Use Case Diagram
   thumbnail: https://images.freeimages.com/images/large-previews/421/polar-bear-calisthenics-1394792.jpg
 ---
 
 <div align="left">
+ "A year from now you may wish you had started today." – Karen Lamb
+  
 This week, we we specified two use cases in more detail.<br><br>
   
 One is for creating new workouts or editing existing ones. You can find it <a href="https://github.com/DHBW-TrainingApp/Blog/blob/main/docs/UCs/createWorkout.md">here</a><br><br>
