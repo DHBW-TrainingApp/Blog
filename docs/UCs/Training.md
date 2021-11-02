@@ -22,7 +22,7 @@ User clicks on "finished" to close the workout with saving it to the workout-log
 <img src="https://github.com/DHBW-TrainingApp/Blog/blob/main/bilder/StartWorkout1.PNG" width="200" height="400" />
 <img src="https://github.com/DHBW-TrainingApp/Blog/blob/main/bilder/StartWorkout2.PNG"  width="200" height="400" />
 
-<img src="https://github.com/DHBW-TrainingApp/Blog/docs/UCs/featureTraining.PNG" width="521" height="363" />
+<img src="https://github.com/DHBW-TrainingApp/Blog/blob/main/docs/UCs/featureTraining.PNG" width="521" height="363" />
 
 
 ### 2.1.3 Narrative
