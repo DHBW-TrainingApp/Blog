@@ -18,11 +18,15 @@ User clicks on "finished" to close the workout with saving it to the workout-log
 ### 2.1.1 Activity Diagram
 ![Organization Application Activity Diagram](./training.svg)
 
+
+### .feature File
+<img src="https://github.com/DHBW-TrainingApp/Blog/blob/main/docs/UCs/featureTraining.PNG" width="521" height="363" />
+
+
 ### 2.1.2 Mock-up
 <img src="https://github.com/DHBW-TrainingApp/Blog/blob/main/bilder/StartWorkout1.PNG" width="200" height="400" />
 <img src="https://github.com/DHBW-TrainingApp/Blog/blob/main/bilder/StartWorkout2.PNG"  width="200" height="400" />
 
-<img src="https://github.com/DHBW-TrainingApp/Blog/blob/main/docs/UCs/featureTraining.PNG" width="521" height="363" />
 
 
 ### 2.1.3 Narrative
