@@ -12,7 +12,10 @@ caption:
 <div align="left">
  "Strength does not come from physical capacity. It comes from an indomitable will."
   
-This week, we we specified two use cases in more detail.<br><br>
+This week we created the feature files for two of our cases
+This task was very helpful to understand better how we want to implement these features later.
+The process of creating the feature files also helped the team to get an overall understanding of 
+what needs to be done for the features and how much needs to be done for even very simple features<br><br>
   
 One is for creating new workouts or editing existing ones. You can find it <a href="https://github.com/DHBW-TrainingApp/Blog/blob/main/docs/UCs/createWorkout.md">here</a><br><br>
 <img src="./docs/UCs/CreateWorkout.svg"/><br><br>
