@@ -10,7 +10,7 @@ caption:
 ---
 
 <div align="left">
- "A year from now you may wish you had started today." – Karen Lamb
+ "Strength does not come from physical capacity. It comes from an indomitable will."
   
 This week, we we specified two use cases in more detail.<br><br>
   
