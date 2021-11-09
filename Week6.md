@@ -24,7 +24,7 @@ caption:
   
   The usage of Clockify is very easy. Each Issue has now a "Start Timer" button next to it, which can be used to start and stop our timer. 
   <br><br>
-  <img src="./bilder/extension.PNG"/>
+  <img  src="./bilder/extension.PNG"/>
   <br><br>
   It's also possible to start the timer inside VSCode, but we decided that pressing a button inside the browser is much more intuitive than starting it through a command inside VScode.
   So we prefer the usage of Clockify's Chrome Extension. 
@@ -34,7 +34,7 @@ caption:
   Under clockify's website you can also log in with your account and have a look on many diagrams, as you can see here: 
   
 <br><br>
-   <img src="./bilder/dashboardClock.PNG"/>
+   <img style="width: 1000px" src="./bilder/dashboardClock.PNG"/>
 <br><br>
 All the best,<br><br>
 
