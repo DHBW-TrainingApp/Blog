@@ -6,7 +6,7 @@ subtitle: Feature Files
 caption:
   title: Week 5
   subtitle: feature files 
-  thumbnail: https://ceonaires.com/ceodocs/uploads/2018/07/UML_Aktivit%C3%A4tsdiagramm.png
+  thumbnail: https://st2.depositphotos.com/1092019/10720/i/950/depositphotos_107208100-stock-photo-file-folder-labeled-as-features.jpg
 ---
 
 > “If you persevere long enough, if you do the right things long enough, the right things will happen.” ~ Manon Rheaume (the first woman to play in an American men’s pro sports league)
