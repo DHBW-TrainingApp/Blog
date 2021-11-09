@@ -11,6 +11,8 @@ caption:
 
 <div align="left">
  "Strength does not come from physical capacity. It comes from an indomitable will."
+      
+<br><br>
   
 This week we created the feature files for two of our cases
 This task was very helpful to understand better how we want to implement these features later.
