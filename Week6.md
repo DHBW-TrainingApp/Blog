@@ -21,7 +21,7 @@ This one is for creating new workouts or editing existing ones. You can find mor
 <img src="./docs/UCs/CreateWorkout.svg"/><br><br>
 
 The second one deals with the procedure of a started interactive workout. The link towards this Use Case Specification is: <a href="https://github.com/DHBW-TrainingApp/Blog/blob/main/docs/UCs/Training.md">Click here </a><br><br>
-<img src="./docs/UCs/training.svg"/>
+<img src=".docs/UCs/featureTraining.PNG>
     
 <br><br>
 All the best,<br><br>
