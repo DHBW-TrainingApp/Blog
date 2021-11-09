@@ -17,7 +17,7 @@ This task was very helpful to understand better how we want to implement these f
 The process of creating the feature files also helped the team to get an overall understanding of 
 what needs to be done for the features and how much needs to be done for even very simple features<br><br>
   
-One is for creating new workouts or editing existing ones. You can find it <a href="https://github.com/DHBW-TrainingApp/Blog/blob/main/docs/UCs/createWorkout.md">here</a><br><br>
+This one is for creating new workouts or editing existing ones. You can find more to it <a href="https://github.com/DHBW-TrainingApp/Blog/blob/main/docs/UCs/createWorkout.md">here</a><br><br>
 <img src="./docs/UCs/CreateWorkout.svg"/><br><br>
 
 And another one deals with the procedure of a started interactive workout. The link towards this Use Case Specification is: <a href="https://github.com/DHBW-TrainingApp/Blog/blob/main/docs/UCs/Training.md">Click here </a><br><br>
