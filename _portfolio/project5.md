@@ -5,7 +5,7 @@ subtitle: Feature Files
 
 caption:
   title: Week 5
-  subtitle: feature files 
+  subtitle: Feature Files 
   thumbnail: https://st2.depositphotos.com/1092019/10720/i/950/depositphotos_107208100-stock-photo-file-folder-labeled-as-features.jpg
 ---
 
