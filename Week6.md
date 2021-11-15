@@ -42,14 +42,14 @@ caption:
   this was also very easy to install and set up.
   
   <br><br>
-   <img style="width: 1000px" src="./bilder/nummber1.PNG"/>
+   <img style="width: 1000px" src="./bilder/number1.PNG"/>
 <br><br>
   
   In the following picture you can see the buttons added by the extension, which allow you to commit or push by clicking a button.  
   
   
   <br><br>
-   <img style="width: 1000px" src="./bilder/nummber2.PNG"/>
+   <img style="width: 1000px" src="./bilder/number2.PNG"/>
 <br><br>
   
   
