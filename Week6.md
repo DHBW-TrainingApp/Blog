@@ -36,6 +36,23 @@ caption:
 <br><br>
    <img style="width: 1000px" src="./bilder/dashboardClock.PNG"/>
 <br><br>
+  
+  Another urgent feature is to link github and vs code. 
+  for this we used the following extention. 
+  this was also very easy to install and set up.
+  
+  <br><br>
+   <img style="width: 1000px" src="./bilder/dashboardClock.PNG"/>
+<br><br>
+  
+  In the following picture you can see the buttons added by the extension, which allow you to commit or push by clicking a button.  
+  
+  
+  <br><br>
+   <img style="width: 1000px" src="./bilder/dashboardClock.PNG"/>
+<br><br>
+  
+  
 All the best,<br><br>
 
 Your workout-log team!<br><br><br><br><br>
