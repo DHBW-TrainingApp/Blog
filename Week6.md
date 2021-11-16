@@ -55,7 +55,7 @@ caption:
   
   Furthermore, we installed a Youtrack extension in Visual Studio Code to be able to create new issues there as well and to have direct access to them.
   <br><br>
-  <img style="width: 1000px" src="./bilder/youtrack_ext.png"/>
+  <img style="width: 800px" src="./bilder/youtrack_ext.png"/>
   <br><br>
   This extension was created to optimize the work for those who manage their issues in YouTrack. 
   It aims to bring the most used features of YouTrack to your VS Code environment.
@@ -67,7 +67,7 @@ caption:
   To use this extension you have to install it in your VS Code environment and follow the steps down below. 
   The only two steps to do are to enter a token in the VS-youtrack settings, which you can create in your youtrack profile, and to enter the corresponding sub     domain. After rebooting your VS environment you will see a new icon (YouTrack) on the left side bar. Here you can now create new issues.
   <br><br>
-  <img style="width: 1000px" src="./bilder/createnewissue.png"/>
+  <img style="width: 700px" src="./bilder/createnewissue.png"/>
   <br><br>
   <br><br>
   All the best,<br><br>
