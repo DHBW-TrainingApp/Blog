@@ -45,7 +45,8 @@ caption:
    <img style="width: 1000px" src="./bilder/number1.PNG"/>
 <br><br>
   
-  In the following picture you can see the buttons added by the extension, which allow you to commit or push by clicking a button.  
+  In the following picture you can see the buttons added by the extension, which allow you to commit or push by clicking a button.
+  furthermore it is helpful to see the changes within vs code.
   
   
   <br><br>
