@@ -49,7 +49,7 @@ caption:
   
   
   <br><br>
-   <img style="width: 1000px" src="./bilder/number22.PNG"/>
+   <img style="width: 1000px" src="./bilder/number2.PNG"/>
 <br><br>
   
   
