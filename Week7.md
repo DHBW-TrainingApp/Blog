@@ -21,7 +21,7 @@ in the following picture you can see how we did this for our workout-edit screen
   
   
 
-  <img  src="./bilder/extension.PNG"/>
+  <img  src="./bilder/Klassendiagramm.PNG"/>
   <br><br>
 
   <br><br>
