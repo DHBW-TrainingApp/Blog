@@ -1,12 +1,12 @@
 ---
-title: WEEK 6
-subtitle: Project management tools
+title: WEEK 7
+subtitle: Class Diagramm
 
 
 caption:
-  title: Week 6
-  subtitle: Project Management Tools
-  thumbnail: https://imgr.search.brave.com/Lc5CTtWXs4WPiFGqAlL6r9uJWoIdvfjY_-0rJziw_FU/fit/1024/512/ce/1/aHR0cHM6Ly9yZXMu/Y2xvdWRpbmFyeS5j/b20vbW9uZGF5LWJs/b2dzL3dfMTAyNCxo/XzEwMjQsY19maXQv/ZmxfbG9zc3ksZl9h/dXRvL3dwLWJsb2cv/MjAxOS8xMC9JbnRy/b2R1Y3Rpb24tdG8t/QWdpbGUucG5n
+  title: Week 7
+  subtitle: Class Diagramm
+  thumbnail: https://www.google.de/url?sa=i&url=https%3A%2F%2Fwww.lucidchart.com%2Fpages%2Fuml-class-diagram&psig=AOvVaw06pCgz-Ul-Xw6uarSpB7mP&ust=1637710012929000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPiHlrGPrfQCFQAAAAAdAAAAABAE
 ---
 
 > “If you persevere long enough, if you do the right things long enough, the right things will happen.” ~ Manon Rheaume (the first woman to play in an American men’s pro sports league)
