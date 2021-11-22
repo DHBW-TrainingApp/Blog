@@ -11,7 +11,7 @@ caption:
 ---
 
 <div align="left">
-  "The two most powerful warriors are patience and time" – Leo Tolstoy, War and Peace.
+  ¨Some people want it to happen, some wish it would happen, others make it happen.¨ – Michael Jordan
   
   <br><br>
   
@@ -23,6 +23,9 @@ in the following picture you can see how we did this for our workout-edit screen
 
   <img  src="./bilder/Klassendiagramm.PNG"/>
   <br><br>
+
+we hope to give you a short insight into what we are working on at the moment. 
+  in the next blogs you will also learn more and more about our progress on the app.
 
   <br><br>
   <br><br>
