@@ -4,11 +4,7 @@ title: WEEK 7
 subtitle: Class Diagramm
 
 
-caption:
-  title: Week 7
-  subtitle: Class Diagramm
-  thumbnail: https://images.freeimages.com/images/large-previews/421/polar-bear-calisthenics-1394792.jpg
----
+
 
 <div align="left">
   ¨Some people want it to happen, some wish it would happen, others make it happen.¨ – Michael Jordan
