@@ -6,7 +6,7 @@ subtitle: Class Diagramm
 caption:
   title: Week 7
   subtitle: Class Diagramm
-  thumbnail: https://www.google.de/url?sa=i&url=https%3A%2F%2Fwww.lucidchart.com%2Fpages%2Fuml-class-diagram&psig=AOvVaw06pCgz-Ul-Xw6uarSpB7mP&ust=1637710012929000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPiHlrGPrfQCFQAAAAAdAAAAABAE
+  thumbnail: https://d2slcw3kip6qmk.cloudfront.net/marketing/pages/chart/class-diagram-for-hotel-management-system-UML/UML_class_diagram_hotel-949x683.PNG
 ---
 
 > “If you persevere long enough, if you do the right things long enough, the right things will happen.” ~ Manon Rheaume (the first woman to play in an American men’s pro sports league)
