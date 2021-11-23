@@ -1,8 +1,5 @@
 
 ---
-title: WEEK 7
-subtitle: Class Diagramm
-
 
 
 
