@@ -8,8 +8,8 @@
   
   <br><br>
   
-  this week was really interesting for us. we started to implement our app prototype which is of course a big step closer to our goal. we still try not to rush and take it one step at a time as we did before. this includes making a class diagram.
-in the following picture you can see how we did this for our workout-edit screene and how we imagine to implement the single workouts later. 
+  This week was really interesting for us. We started to implement some of our features to our app prototype. Which is now of course a big step closer to our final goal. We still try not to rush and take it one step at a time, just as we did before. This includes making a class diagrams for now.
+In the following picture you can see how we did this for our workout-edit screen and how we plan to implement the workouts later. 
   
   
   
@@ -17,10 +17,10 @@ in the following picture you can see how we did this for our workout-edit screen
   <img  src="./bilder/Klassendiagramm.PNG"/>
   <br><br>
 
-we hope to give you a short insight into what we are working on at the moment. 
-  in the next blogs you will also learn more and more about our progress on the app.
+We hope you liked our short insight into what we are working on at the moment. 
+  This is just a brief teaser, while in the next blogs you will learn more about our progress on the final app.
 
-  <br><br>
+  <br>
   <br><br>
   All the best,<br><br>
 
