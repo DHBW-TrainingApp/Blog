@@ -2,7 +2,7 @@
 caption: 
 title: Week 8
 subtitle: Internal insight
-thumbnail: https://d2slcw3kip6qmk.cloudfront.net/marketing/pages/chart/class-diagram-for-hotel-management-system-UML/UML_class_diagram_hotel-949x683.PNG
+thumbnail: https://c7.alamy.com/compde/2axrwjm/teamarbeit-im-buro-oder-geschaftstreffen-geschaftige-cartoon-arbeit-fur-unternehmen-2axrwjm.jpg
 ---
 
 <img src="https://lh6.googleusercontent.com/vTaE5qb-VUylz7syxnzLHBb_0hCOCMLztgwuzJIfOznwUrKFw71OJobBziN5iaciZZpD4Gxr197YlnmTESM-SosD0T8Riq6R8xXlb9bTmgEAqR7C09fugv1Ac7nPbTXjBlXdzT3YpPSfGIkvtw" alt="lockdown" width="500"/>
