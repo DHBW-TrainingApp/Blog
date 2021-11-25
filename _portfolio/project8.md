@@ -9,7 +9,7 @@ caption:
   thumbnail: https://c7.alamy.com/compde/2axrwjm/teamarbeit-im-buro-oder-geschaftstreffen-geschaftige-cartoon-arbeit-fur-unternehmen-2axrwjm.jpg
 ---
 
->¨If it doesn't challange you, it doesn't change you.¨ – Fred Devito
+>¨If it doesn't challange you, it doesn't change you.¨ – Fred Devito <br><br>
 
 <img src="https://lh6.googleusercontent.com/vTaE5qb-VUylz7syxnzLHBb_0hCOCMLztgwuzJIfOznwUrKFw71OJobBziN5iaciZZpD4Gxr197YlnmTESM-SosD0T8Riq6R8xXlb9bTmgEAqR7C09fugv1Ac7nPbTXjBlXdzT3YpPSfGIkvtw" alt="lockdown" width="500"/> <br><br>
 
