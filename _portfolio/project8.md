@@ -1,5 +1,5 @@
 ---
-caption: ???
+caption: 
 title: Week 8
 subtitle: Internal insight
 thumbnail: https://d2slcw3kip6qmk.cloudfront.net/marketing/pages/chart/class-diagram-for-hotel-management-system-UML/UML_class_diagram_hotel-949x683.PNG
