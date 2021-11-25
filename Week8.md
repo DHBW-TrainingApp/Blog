@@ -8,7 +8,7 @@
   
   <img src="https://lh6.googleusercontent.com/vTaE5qb-VUylz7syxnzLHBb_0hCOCMLztgwuzJIfOznwUrKFw71OJobBziN5iaciZZpD4Gxr197YlnmTESM-SosD0T8Riq6R8xXlb9bTmgEAqR7C09fugv1Ac7nPbTXjBlXdzT3YpPSfGIkvtw" alt="lockdown" width="500"/>
   
-  <br><br>
+  <br><br><br><br><br>
   
   In this blog, we want to look a bit behind the internal scenes. What's going well, what's not and more.
 
