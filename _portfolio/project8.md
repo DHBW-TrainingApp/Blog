@@ -1,15 +1,9 @@
 ---
-title: WEEK 7
-subtitle: Class Diagramm
-
-
-caption:
-  title: Week 8
-  subtitle: Class Diagramm
-  thumbnail: https://d2slcw3kip6qmk.cloudfront.net/marketing/pages/chart/class-diagram-for-hotel-management-system-UML/UML_class_diagram_hotel-949x683.PNG
+caption: ???
+title: Week 8
+subtitle: Internal insight
+thumbnail: https://d2slcw3kip6qmk.cloudfront.net/marketing/pages/chart/class-diagram-for-hotel-management-system-UML/UML_class_diagram_hotel-949x683.PNG
 ---
-
-> “If you persevere long enough, if you do the right things long enough, the right things will happen.” ~ Manon Rheaume (the first woman to play in an American men’s pro sports league)
 
 <img src="https://lh6.googleusercontent.com/vTaE5qb-VUylz7syxnzLHBb_0hCOCMLztgwuzJIfOznwUrKFw71OJobBziN5iaciZZpD4Gxr197YlnmTESM-SosD0T8Riq6R8xXlb9bTmgEAqR7C09fugv1Ac7nPbTXjBlXdzT3YpPSfGIkvtw" alt="lockdown" width="500"/>
 
