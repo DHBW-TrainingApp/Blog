@@ -18,7 +18,11 @@
   
   Last but not least, let's take a look at the topic of time.<br>
   In terms of the project, i.e. the implementation / programming, we are still well on schedule. Compared to other projects from our course, we have already started early with     the implementation, so that we are currently not feeling any stress.
-  Time is actually only short when it comes to handing in the homework "peer reviews & blog writing". Here we are often a bit late and release it very late - something we could   and even should change. 
+  Time is actually only short when it comes to handing in the homework "peer reviews & blog writing". Here we are often a bit late and release it very late - something we could   and even should change. <br><br><br>
+  
+  About this week:<br><br>
+  <img src="/bilder/c_miro.png"
+  
   
 
   <br>
