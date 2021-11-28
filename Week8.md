@@ -21,7 +21,7 @@
   Time is actually only short when it comes to handing in the homework "peer reviews & blog writing". Here we are often a bit late and release it very late - something we could   and even should change. <br><br><br>
   
   About this week:<br><br>
-  <img src="/bilder/c_miro.png">
+  <img src="/bilder/c_miro.png" width="500"/>
   
   
 
