@@ -12,9 +12,9 @@
   
   In this blog, we want to look a bit behind the internal scenes. What's going well, what's not and more. <br><br>
 
-  The first thing we want to address is the communication among us. This works very well. We meet every week and exchange ideas, discuss further functional details or     general topics concerning the workout-log project. 
+  The first thing we want to address is the communication among us. This works very well. We meet every week and exchange ideas, discuss further functional details or     general topics concerning the workout-log project. <br><br>
 
-  The implementation of the previous weeks, respectively the implementation goals, works well so far. Everyone in our group has currently been assigned a fixed     task that       relates to the implementation.
+  The implementation of the previous weeks, respectively the implementation goals, works well so far. Everyone in our group has currently been assigned a fixed     task that       relates to the implementation. <br><br>
   
   Last but not least, let's take a look at the topic of time.<br>
   In terms of the project, i.e. the implementation / programming, we are still well on schedule. Compared to other projects from our course, we have already started early with     the implementation, so that we are currently not feeling any stress.
