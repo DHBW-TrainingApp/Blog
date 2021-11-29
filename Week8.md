@@ -12,7 +12,7 @@
   
   In this weeks blog post, we want to look a bit behind the internal scenes. What's going well, what's not and more. <br><br>
 
-  The first thing we want to address is the communication among usm which worked quiet well so far. We meet every week and exchange ideas, discuss further functional details or general topics concerning the workout-log project. As communication channels we use a Discord, WhatsApp and YouTrack.  <br><br>
+  The first thing we want to address is the communication among us which worked quiet well so far. We meet every week and exchange ideas, discuss further functional details or general topics concerning the workout-log project. As communication channels we use Discord, WhatsApp and YouTrack.  <br><br>
 
   The implementation of the previous weeks, respectively the implementation goals, worked also well so far. Everyone in our group has currently been assigned a fixed task that relates to the implementation phase of our project. <br><br>
   
