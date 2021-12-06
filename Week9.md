@@ -4,15 +4,13 @@
 
 
 <div align="left">
-  ¨If it doesn't challenge you, it doesn't change you.¨ – Fred Devito <br><br><br>
+  ¨The Pain you feel today will be the Strength you feel tomorrow¨ <br><br><br>
   
   <img src="https://lh6.googleusercontent.com/vTaE5qb-VUylz7syxnzLHBb_0hCOCMLztgwuzJIfOznwUrKFw71OJobBziN5iaciZZpD4Gxr197YlnmTESM-SosD0T8Riq6R8xXlb9bTmgEAqR7C09fugv1Ac7nPbTXjBlXdzT3YpPSfGIkvtw" alt="lockdown" width="500"/>
   
   <br><br><br><br>
   
-  In this weeks blog post, we want to look a bit behind the internal scenes. What's going well, what's not and more. <br><br>
-
-  The first thing we want to address is the communication among us which worked quiet well so far. We meet every week and exchange ideas, discuss further functional details or general topics concerning the workout-log project. As communication channels we use Discord, WhatsApp and YouTrack.  <br><br>
+ This week there are more diagrams. we have been working on an MVVM model. the main difference between an MVVM and an MVC is that instead of a controller you have a view model. There are also a few advantages, one is a loosely coupled architecture, you can write unit test cases for the view model as well as the model layer without having to change anything.  <br><br>
 
   The implementation of the previous weeks, respectively the implementation goals, worked also well so far. Everyone in our group has currently been assigned a fixed task that relates to the implementation phase of our project. <br><br>
   
