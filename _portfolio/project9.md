@@ -6,7 +6,7 @@ subtitle: MVVM Diagramm
 caption: 
   title: Week 9
   subtitle: MVVM Diagramm
-  thumbnail: https://c7.alamy.com/compde/2axrwjm/teamarbeit-im-buro-oder-geschaftstreffen-geschaftige-cartoon-arbeit-fur-unternehmen-2axrwjm.jpg
+  thumbnail: bilder/IMG-20211205-WA0002.jpg
 ---
 
 >¨If it doesn't challange you, it doesn't change you.¨ – Fred Devito <br><br>
