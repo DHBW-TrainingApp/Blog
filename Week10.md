@@ -4,7 +4,6 @@
 <div align="left">
   ¨Great achievement is usually born of great sacrifice, and is never the result of selfishness" <br><br><br>
   
-</br>
 <h1> Midterm </h1> 
   
 This week we want to present our achivements of this semester. You’ll get an overview over our documentation. If something looks corrupted or seems wrong, then let us know in the comment section below. Thanks!<br><br><br>
@@ -19,7 +18,7 @@ This week we want to present our achivements of this semester. You’ll get an o
  <h3>Use Case Diagram</h3>
 <ul>
   <li>
-     <a href="https://github.com/DHBW-TrainingApp/Blog/blob/main/docs/UseCaseDiagramCP.png">Slides</a>
+     <a href="https://github.com/DHBW-TrainingApp/Blog/blob/main/docs/UseCaseDiagramCP.png" style="color:DarkOrange">Use Case Diagram</a>
     </li>
     </ul>
    
