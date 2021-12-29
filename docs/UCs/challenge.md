@@ -16,7 +16,7 @@ The user will be able to create challenges to compete whether with him-/herself 
 - User is redirected back to the challenge's main page
 
 ### 2.1.1 Activity Diagram
-![Registration Diagram](./challenge.svg)
+![Challenge Diagram](./challenge.svg)
 
 ### .feature File
 <img src="https://github.com/DHBW-TrainingApp/Blog/blob/main/docs/UCs/challenge.png"  width="562" height="350" />
