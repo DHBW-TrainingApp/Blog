@@ -37,11 +37,11 @@ The user will be able to create challenges to compete whether with him-/herself 
 (n/a)
 
 # 4 Preconditions
-## 4.1 Mail
-The user needs to have a mail account
+## 4.1 Being able to see a list
+The user must have already created at least one challenge. 
 
 # 5 Postconditions
-User is logged in 
+(n/a)
  
 # 6 Extension Points
 (n/a)
