@@ -4,7 +4,13 @@ View and create challenges
 ## 1.1 Brief Description
 The user will be able to create challenges to compete whether with him-/herself or with other people. There will be different types of challenges and you can also view them after creating them. 
 
-- MORE COMING SOON
+There will be four main types of challenges
+- Outdoor
+- Body related
+- Gym
+- Home
+
+You will see a individual input form which includes prefabricated input fields to fill in your goals.
 
 # 2 Flow of Events
 ## 2.1 Basic Flow
