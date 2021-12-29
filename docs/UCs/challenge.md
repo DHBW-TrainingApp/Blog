@@ -19,7 +19,7 @@ The user will be able to create challenges to compete whether with him-/herself 
 ![Challenge Diagram](./challenge.svg)
 
 ### .feature File
-<img src="https://github.com/DHBW-TrainingApp/Blog/blob/main/docs/UCs/challenge.png"  width="562" height="350" />
+<img src="https://github.com/DHBW-TrainingApp/Blog/blob/main/docs/UCs/challenge.png"  width="562" height="380" />
 
 
 ### 2.1.2 Mock-up
