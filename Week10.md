@@ -36,6 +36,9 @@ This week we want to present our achivements of this semester. You’ll get an o
    <li>
      <a href="https://github.com/DHBW-TrainingApp/Blog/blob/main/docs/UCs/challenge.md" style="color:DarkOrange">Challenges</a>
     </li>
+  <li>
+     <a href="https://github.com/DHBW-TrainingApp/Blog/blob/main/docs/UCs/MealPlan.md" style="color:DarkOrange">Meal Plan</a>
+    </li>
     </ul>
      
             <h3>Software Specifications</h3>
