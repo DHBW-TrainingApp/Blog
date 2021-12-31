@@ -29,8 +29,7 @@ You will see a individual input form which includes prefabricated input fields t
 
 
 ### 2.1.2 Mock-up
-<img src="https://github.com/DHBW-TrainingApp/Blog/blob/main/bilder/WorkoutManage1.PNG" width="200" height="400" />
-<img src="https://github.com/DHBW-TrainingApp/Blog/blob/main/bilder/WorkoutManage2.PNG"  width="200" height="400" />
+<img src="https://github.com/DHBW-TrainingApp/Blog/blob/main/bilder/MockupChallenges.PNG" width="200" height="400" />
 
 
 ### 2.1.3 Narrative
