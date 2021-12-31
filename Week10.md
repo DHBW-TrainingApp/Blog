@@ -2,19 +2,39 @@
 
 
 <div align="left">
-  ¨Great achievement is usually born of great sacrifice, and is never the result of selfishness" <br><br><br>
+  ¨Great achievement is usually born of great sacrifice, and is never the result of selfishness" <br><br>
+  
+ 
+
   
 <h1> Midterm </h1> 
+Finally the semester is over and we are able to present you our achivements so far. You’ll get an overview over our documentation, our prototype and the midterm presentation files. If something looks corrupted or wrong, simply let us know in the comment section below. Thanks!<br><br><br>
   
-This week we want to present our achivements of this semester. You’ll get an overview over our documentation. If something looks corrupted or seems wrong, then let us know in the comment section below. Thanks!<br><br><br>
+   <h3>Prototype</h3>
+   <img src="../bilder/gif1.gif" alt="demo"/><br>
+  As you can see we already managed to implement our authetication via OAuth or mail. Also we set a solid fundation with our app layout, which is using tabs and a navigation bar, while everything is completely responsive and looks good on mobile same as on desktop PC. We also implemented a basic CRUD functionality, that is demonstrated in the gif below.  
+   <img src="../bilder/gif2.gif" alt="demo"/><br>
   
   <h3>Presentation</h3>
 <ul>
   <li>
   <a href="https://docs.google.com/presentation/d/1A5A3ChnkqPDPrrI0gYowFCCOQfWaCTfa/edit#slide=id.p2" style="color:DarkOrange">Slides</a>
     </li>
+    <li>
+  <a href="https://docs.google.com/document/d/1YDyeP_-aZmAnObkOPFA6jcTRHUs0F8J4FFrA7vH2zqs/edit" style="color:DarkOrange">Handout</a>
+    </li>
     </ul>
     
+    <h3>Presentation</h3>
+<ul>
+  <li>
+  <a href="https://docs.google.com/presentation/d/1A5A3ChnkqPDPrrI0gYowFCCOQfWaCTfa/edit#slide=id.p2" style="color:DarkOrange">Slides</a>
+    </li>
+    <li>
+  <a href="https://docs.google.com/document/d/1YDyeP_-aZmAnObkOPFA6jcTRHUs0F8J4FFrA7vH2zqs/edit" style="color:DarkOrange">Handout</a>
+    </li>
+    </ul>
+  
  <h3>Use Case Diagram</h3>
 <ul>
   <li>
