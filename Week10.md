@@ -11,9 +11,10 @@
 Finally the semester is over and we are able to present you our achivements so far. You’ll get an overview over our documentation, our prototype and the midterm presentation files. If something looks corrupted or wrong, simply let us know in the comment section below. Thanks!<br><br><br>
   
    <h3>Prototype</h3>
-   <img src="bilder/gif1.gif" alt="demo"/><br>
+  <div  style="text-align: center">
+   <img src="bilder/gif1.gif" alt="demo" height="600"/>  </div><br>
   As you can see we already managed to implement our authetication via OAuth or mail. Also we set a solid fundation with our app layout, which is using tabs and a navigation bar, while everything is completely responsive and looks good on mobile same as on desktop PC. We also implemented a basic CRUD functionality, that is demonstrated in the gif below.  
-   <img src="bilder/gif2.gif" alt="demo"/><br>
+   <img src="bilder/gif2.gif" alt="demo" height="600"/><br>
   
   <h3>Presentation</h3>
 <ul>
