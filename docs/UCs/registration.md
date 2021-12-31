@@ -23,8 +23,7 @@ The user has the option to login via email or OAuth (Google). If he*she wants to
 
 
 ### 2.1.2 Mock-up
-<img src="https://github.com/DHBW-TrainingApp/Blog/blob/main/bilder/WorkoutManage1.PNG" width="200" height="400" />
-<img src="https://github.com/DHBW-TrainingApp/Blog/blob/main/bilder/WorkoutManage2.PNG"  width="200" height="400" />
+<img src="https://github.com/DHBW-TrainingApp/Blog/blob/main/bilder/MockupRegistration.PNG" width="200" height="400" />
 
 
 ### 2.1.3 Narrative
