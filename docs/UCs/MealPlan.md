@@ -3,7 +3,7 @@
 Meal Plan
 
 ## 1.1 Brief Description
-Users can create new meals and add these to ther log 
+Users can create new meals and add them to their logs
 
 # 2 Flow of Events
 ## 2.1 Basic Flow
