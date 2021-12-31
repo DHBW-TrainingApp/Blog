@@ -13,8 +13,11 @@ Finally the semester is over and we are able to present you our achivements so f
    <h3>Prototype</h3>
   <div  style="text-align: center">
    <img src="bilder/gif1.gif" alt="demo" height="600"/>  </div><br>
-  As you can see we already managed to implement our authetication via OAuth or mail. Also we set a solid fundation with our app layout, which is using tabs and a navigation bar, while everything is completely responsive and looks good on mobile same as on desktop PC. We also implemented a basic CRUD functionality, that is demonstrated in the gif below.  
-   <img src="bilder/gif2.gif" alt="demo" height="600"/><br>
+  As you can see we already managed to implement our authetication via OAuth or mail. Also we set a solid fundation with our app layout, which is using tabs and a navigation bar, while everything is completely responsive and looks good on mobile same as on desktop PC. We also implemented a basic CRUD functionality, that is demonstrated in the gif below. <br> <br>
+  
+   <div  style="text-align: center">
+   <img src="bilder/gif2.gif" alt="demo" height="600"/>
+     </div><br>
   
   <h3>Presentation</h3>
 <ul>
@@ -26,6 +29,13 @@ Finally the semester is over and we are able to present you our achivements so f
     </li>
     </ul>
     
+  <h3>GitHub</h3>
+  <ul>
+  <li>
+  <a href="https://github.com/DHBW-TrainingApp" style="color:DarkOrange">Our Organization</a>
+    </li>
+    </ul>
+  
     <h3>Presentation</h3>
 <ul>
   <li>
