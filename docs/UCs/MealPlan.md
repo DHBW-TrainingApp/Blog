@@ -21,8 +21,7 @@ Users can create new meals and add these to ther log
 
 
 ### 2.1.2 Mock-up
-<img src="https://github.com/DHBW-TrainingApp/Blog/blob/main/bilder/WorkoutManage1.PNG" width="200" height="400" />
-<img src="https://github.com/DHBW-TrainingApp/Blog/blob/main/bilder/WorkoutManage2.PNG"  width="200" height="400" />
+<img src="https://github.com/DHBW-TrainingApp/Blog/blob/main/bilder/MockupMealPlan.PNG" width="200" height="400" />
 
 
 ### 2.1.3 Narrative
@@ -36,6 +35,7 @@ the user also wants to do it as fast as possible without much hassle so that it 
 (n/a)
 
 # 4 Preconditions
+## 4.1 User has to have a account
 User needs to be logged in
 
 # 5 Postconditions
