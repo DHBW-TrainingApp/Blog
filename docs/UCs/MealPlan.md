@@ -17,7 +17,7 @@ Users can create new meals and add these to ther log
 ![Registration Diagram](./MealPlan.svg)
 
 ### .feature File
-<img src="https://github.com/DHBW-TrainingApp/Blog/blob/main/docs/UCs/MealPlan.PNG" width="200" height="400"/>
+<img src="https://github.com/DHBW-TrainingApp/Blog/blob/main/docs/UCs/MealPlan.PNG" width="895" height="791"/>
 
 
 ### 2.1.2 Mock-up
