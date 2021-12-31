@@ -6,7 +6,7 @@ subtitle: Midterm
 caption: 
   title: Week 10
   subtitle: Midterm
-  thumbnail: https://lh3.googleusercontent.com/proxy/xDNKE9WyR_CewKRykcSUERdC_Hb1wZ0OlvvHOl9VDOp9qNf398-CKFPyqPjNjcDLuJ7olIsyQbTFY94DUVxOg_69-Xplfdg2S5eAxhwHGGg9iinrGYcOd8Ap2aTOtDG_e-Cn6ZH1ai5Ue50N7Zz052Cj-uucqPtKFtAcNcx-csYkTL45
+  thumbnail: https://lh3.googleusercontent.com/proxy/hWzMOIAIAG7soBTxzD6Sv-UVX1c2impSmsPon8w7PUjshHpfjsLgSdJT3ITql35yntEwhC_gGW1gGnrlhpSu6y4vt7po-LWmzrTLa4BADOW_VAvnWw5HoczlscwEsR2eIRQiW3hdl8pIO6nOVMzn7SedP0WyJGzpB7Prn9BSGXEt-o6i
 ---
 
 >¨If it doesn't challange you, it doesn't change you.¨ – Fred Devito <br><br>
