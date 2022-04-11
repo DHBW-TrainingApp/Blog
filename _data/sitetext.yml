@@ -32,7 +32,13 @@ en: &DEFAULT_EN
 
   portfolio:  
     title: "Blog"
-    text: "Our Development Blog"
+    text: "Semester 1"
+    section: blog
+    closebutton: "Close Project"
+    
+  portfolio2:  
+    title: ""
+    text: "Semester 2"
     section: blog
     closebutton: "Close Project"
 
