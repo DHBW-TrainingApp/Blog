@@ -6,7 +6,7 @@ subtitle: Project management tools
 caption:
   title: Week 6
   subtitle: Project Management Tools
-  thumbnail: https://imgr.search.brave.com/Lc5CTtWXs4WPiFGqAlL6r9uJWoIdvfjY_-0rJziw_FU/fit/1024/512/ce/1/aHR0cHM6Ly9yZXMu/Y2xvdWRpbmFyeS5j/b20vbW9uZGF5LWJs/b2dzL3dfMTAyNCxo/XzEwMjQsY19maXQv/ZmxfbG9zc3ksZl9h/dXRvL3dwLWJsb2cv/MjAxOS8xMC9JbnRy/b2R1Y3Rpb24tdG8t/QWdpbGUucG5n
+  thumbnail: https://www.cio.com/wp-content/uploads/2021/12/project-management-100713160-orig-1.jpg?resize=1024%2C439&quality=50&strip=all
 ---
 
 > “If you persevere long enough, if you do the right things long enough, the right things will happen.” ~ Manon Rheaume (the first woman to play in an American men’s pro sports league)
