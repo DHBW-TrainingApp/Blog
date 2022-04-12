@@ -10,9 +10,19 @@ caption:
 ---
 
 <div align="left">
-  "The two most powerful warriors are patience and time" – Leo Tolstoy, War and Peace.
+  „Der Wille ist stärker als das Können." ― Kevin Constantine
   
   <br><br>
+  
+  This week we have created a table that provides an overview of risk management.  
+  The table contains the name of the risk, the description, the probability of occurrence, 
+  the impact, the factor, the risk mitigation and the person(s) responsible for it. <br><br>
+  The first risk we have is dependency issues. It can happen that the technological dependencies 
+  no longer exist or are changed / updated in such a way that the code in the backend and 
+  frontend must be adapted. 
+
+
+
   
   
   <img style="width: 450px" src="./bilder/createnewissue.png"/>
