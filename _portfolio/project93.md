@@ -11,7 +11,6 @@ caption:
 
 > “If you persevere long enough, if you do the right things long enough, the right things will happen.” ~ Manon Rheaume (the first woman to play in an American men’s pro sports league)
 
-<img src="https://cfcdn.aerzteblatt.de/bilder/2020/06/img243528501.jpg" alt="lockdown" width="500"/>
 
 <div align="left">
 
