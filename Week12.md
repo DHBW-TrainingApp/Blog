@@ -24,8 +24,6 @@ caption:
 
 
   
-  
-  <img style="width: 450px" src="./bilder/createnewissue.png"/>
   <br><br>
   <br><br>
   All the best,<br><br>
