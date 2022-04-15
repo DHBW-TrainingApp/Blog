@@ -14,41 +14,35 @@ caption:
   
   <br><br><br><br><br>
   
-  This week we have created a table that provides an overview of risk management.  
-  The table contains the name of the risk, the description, the probability of occurrence, 
-  the impact, the factor, the risk mitigation and the person(s) responsible for it. <br><br>
+  This week we created a table that provides an overview of our risk management.  
+  The table contains the name of the risk with its corresponding description, the probability of occurrence and impact, some risk mitigation and the person(s) that are in charge of it. <br><br>
   
-  The first risk we have is dependency issues. It can happen that the technological dependencies 
-  no longer exist or are changed / updated in such a way that the code in the backend and 
-  frontend must be adapted. The risk factor is 3. The dependabot tool from Github is used as a risk mitigation.  
+  The first and most serious risk is about dependency issues. Because through the use of dependencies you become dependant on them and it can happen that they get removed (left-pad) or are changed / updated in such a way that the code in the backend and 
+  frontend needs to be adapted. We declared the risk factor here as 3, but through the use of for e.g. GitHub's dependabot tool as risk mitigation, we can minimize this risk.  
   Dependabot is designed to throw up warnings for repositories when security vulnerabilities 
   or problems occur in dependencies. <br><br>
   
   General security problems can be caused by configuration errors within Firebase. The risk 
-  factor here is 2.5. For problem mitigation we use security checker, firebase authentication 
+  factor here is 2.5. For problem mitigation we could use a security checker, firebase authentication 
   and manual testing. <br><br>
   
-  Another risk is underestimating the effort required to develop features in our app, 
-  also known as the Dunning-Krueger effect. The risk factor is 1.2. To prevent this we 
-  use agile working, conduct better, longer and more detailed research and retrospective. <br><br>
+  Another risk is to underestimate the effort required to develop features for our app. This bias of self-esteem is
+  also known as the Dunning-Krueger effect and of course every developer can relate to it :). But still we declared the risk factor as a solid 1.2, because for prevention we use agile working methods, conduct better/longer and are doing more detailed research and monthly retrospectives. We are curious how this risk will conclude in our final retrospective. <br><br>
   
   Also, we may receive an unexpected bill from Firebase. This can be caused by using Firebase 
   incorrectly, using up all of our free credit very quickly. The risk factor is a 0.4. To avoid 
   this we use a backup to be able to save the data in case of account suspension. In addition to that, 
-  we use multiple Google accounts to store more data in total. Regularly checking the inbox is also 
-  important to get important information, such as the upcoming account suspension. <br><br>
+  while testing we can use multiple Google accounts to store more data in total (More accounts = more free credits). Regularly checking the inbox is also 
+  important to get important information, such as a upcoming account suspension. <br><br>
   
   The last risk we have is the incorrect display of our app on different devices. This can 
   happen if the app has been programmed poorly and therefore cannot be displayed correctly 
   on certain devices. The risk factor is 0.18. In order to prevent this, the documentation 
-  of the technologies that are used should be read from the beginning, so that possible errors
+  of the technologies that are used should be read from the beginning (*laughing*), so that possible errors
   can be prevented in advance.
   
   
   
-
-
-
   
   <br><br>
   <br><br>
