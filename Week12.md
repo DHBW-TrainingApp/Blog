@@ -8,11 +8,11 @@ caption:
   subtitle: Risk Management
   thumbnail: https://www.itprotoday.com/sites/itprotoday.com/files/styles/article_featured_standard/public/GettyImages-1343006928-1401x788-49696df.jpeg?itok=T9RcnyHx
 ---
-
+<hr>
 <div align="left">
   „Der Wille ist stärker als das Können." ― Kevin Constantine
   
-  <br><br>
+  <br><br><br><br><br>
   
   This week we have created a table that provides an overview of risk management.  
   The table contains the name of the risk, the description, the probability of occurrence, 
@@ -20,7 +20,7 @@ caption:
   
   The first risk we have is dependency issues. It can happen that the technological dependencies 
   no longer exist or are changed / updated in such a way that the code in the backend and 
-  frontend must be adapted. The dependabot tool from Github is used as a risk mitigation.  
+  frontend must be adapted. The risk factor is 3. The dependabot tool from Github is used as a risk mitigation.  
   Dependabot is designed to throw up warnings for repositories when security vulnerabilities 
   or problems occur in dependencies. <br><br>
   
