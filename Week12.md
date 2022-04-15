@@ -17,9 +17,35 @@ caption:
   This week we have created a table that provides an overview of risk management.  
   The table contains the name of the risk, the description, the probability of occurrence, 
   the impact, the factor, the risk mitigation and the person(s) responsible for it. <br><br>
+  
   The first risk we have is dependency issues. It can happen that the technological dependencies 
   no longer exist or are changed / updated in such a way that the code in the backend and 
-  frontend must be adapted. 
+  frontend must be adapted. The dependabot tool from Github is used as a risk mitigation.  
+  Dependabot is designed to throw up warnings for repositories when security vulnerabilities 
+  or problems occur in dependencies. <br><br>
+  
+  General security problems can be caused by configuration errors within Firebase. The risk 
+  factor here is 2.5. For problem mitigation we use security checker, firebase authentication 
+  and manual testing. <br><br>
+  
+  Another risk is underestimating the effort required to develop features in our app, 
+  also known as the Dunning-Krueger effect. The risk factor is 1.2. To prevent this we 
+  use agile working, conduct better, longer and more detailed research and retrospective. <br><br>
+  
+  Also, we may receive an unexpected bill from Firebase. This can be caused by using Firebase 
+  incorrectly, using up all of our free credit very quickly. The risk factor is a 0.4. To avoid 
+  this we use a backup to be able to save the data in case of account suspension. In addition to that, 
+  we use multiple Google accounts to store more data in total. Regularly checking the inbox is also 
+  important to get important information, such as the upcoming account suspension. <br><br>
+  
+  The last risk we have is the incorrect display of our app on different devices. This can 
+  happen if the app has been programmed poorly and therefore cannot be displayed correctly 
+  on certain devices. The risk factor is 0.18. In order to prevent this, the documentation 
+  of the technologies that are used should be read from the beginning, so that possible errors
+  can be prevented in advance.
+  
+  
+  
 
 
 
