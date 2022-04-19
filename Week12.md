@@ -14,7 +14,7 @@ caption:
   
   <br><br><br><br>
   In order to keep all our files bundled, we created our risk table inside the knowledge base of our YouTrack Project. Here's the link: https://dhbw-karlsruhe.myjetbrains.com/youtrack/articles/WL-A-1/RISK-MANAGEMENT
-  <br>
+  <br><br>
   
   This week we created a table that provides an overview of our risk management.  
   The table contains the name of the risk with its corresponding description, the probability of occurrence and impact, some risk mitigation and the person(s) that are in charge of it. <br><br>
