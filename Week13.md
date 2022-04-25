@@ -47,7 +47,7 @@ The following table lists our use cases of the last semester:
      <tr>
       <td><a href="https://github.com/DHBW-TrainingApp/Blog/blob/main/docs/UCs/registration.md"><del>Training</del></a></td>
       <td><em>2:00</em></td> <td><em>1:30</em></td> <td><em>2:30</em></td> <td><em>0</em></td>
-      <td><strong>0</strong></td>
+      <td><strong>4:00</strong></td>
       <td>2</td>
     </tr>
      <tr>
