@@ -13,7 +13,7 @@ caption:
  
   
  <br><br>
-Привіт :ukraine:,  <br> 
+Привіт,  <br> 
 This is already our third blog post of the fourth semester, so now we are going to have a look at our use cases and apply so-called story points on them. 
   <br>  <br>
 The following table lists our use cases of the last semester: 
