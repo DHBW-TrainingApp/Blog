@@ -99,8 +99,7 @@ Next we are going to have a look on the tasks for this semester:
    <tr>
       <td>Create Workout</td>
       <td><em>15:00</em></td> <td><em>8</em></td> 
-   </tr>
-      
+   </tr>   
   </tbody>
 </table>
   
