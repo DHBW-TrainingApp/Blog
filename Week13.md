@@ -88,7 +88,7 @@ Next we are going to have a look on the tasks for this semester:
       <td><em>8:00</em></td> <td><em>2</em></td> 
     </tr>
    <tr>
-      <td>Edit Log</a></td>
+      <td>Edit Log</td>
       <td><em>10:00</em></td> <td><em>3</em></td> 
    </tr>
    <tr>
