@@ -75,6 +75,7 @@ In addition, it is clear that our estimates differed greatly from the real effor
 Next we are going to have a look on the tasks for this semester:
 
   <br><br>
+  
 <table>
   <thead>
     <tr>
@@ -83,7 +84,7 @@ Next we are going to have a look on the tasks for this semester:
   </thead>
     <tbody>
     <tr>
-      <td>Photo documentation</td>
+      <td>Photo Documentation</td>
       <td><em>8:00</em></td> <td><em>2</em></td> 
     </tr>
    <tr>
@@ -91,7 +92,7 @@ Next we are going to have a look on the tasks for this semester:
       <td><em>10:00</em></td> <td><em>3</em></td> 
    </tr>
    <tr>
-      <td><a href="https://github.com/DHBW-TrainingApp/Blog/blob/main/docs/UCs/registration.md">Profile</td>
+      <td>Profile</td>
       <td><em>12:00</em></td> <td><em>5</em></td> 
    </tr>
    <tr>
