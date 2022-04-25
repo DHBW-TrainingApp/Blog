@@ -57,7 +57,7 @@ The following table lists our use cases of the last semester:
       <td>1</td>
     </tr>
     <tr>
-      <td>Log</a></td>
+      <td>Log</td>
       <td><em>15:00</em></td> <td><em>0:30</em></td> <td><em>13:30</em></td> <td><em>1:00</em></td>
       <td><strong>15:00</strong></td>
       <td>13</td>
@@ -73,14 +73,12 @@ In addition, it is clear that our estimates differed greatly from the real effor
 
   <br>  <br>
 Next we are going to have a look on the tasks for this semester:
-  
-  
-  
+
   <br><br>
-    <table>
+<table>
   <thead>
     <tr>
- <th>Use Case</th><th>Estimated workload (in h)<th>Story Points</th>
+ <th>Use Case</th><th>Estimated workload (in h)</th><th>Story Points</th>
     </tr>
   </thead>
     <tbody>
