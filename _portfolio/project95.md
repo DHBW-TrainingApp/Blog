@@ -4,9 +4,8 @@ subtitle: Risk Management
 
 
 caption:
-  title: Week 13
-  subtitle: Story Points
-  thumbnail:  https://www.visual-paradigm.com/servlet/editor-content/scrum/what-is-story-point-in-agile/sites/7/2018/12/story-point-fibonacci-number.png
+  title: Unit testing (Argh!)
+  thumbnail:  https://i.imgflip.com/4witxo.jpg
 ---
 
 > “If you persevere long enough, if you do the right things long enough, the right things will happen.” ~ Manon Rheaume (the first woman to play in an American men’s pro sports league)
