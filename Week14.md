@@ -37,7 +37,11 @@ After the problem was solved, Travis said that there was a negative account bala
 So after wasting valuable time again, we switched to GitHub action, which worked like a charm. 
 <br>
 The badge for the successful test run can be found on our [Github page](https://github.com/DHBW-TrainingApp/workout-log). 
+  
+And since Prof Berk said: ["best grade goes to group with largest number of badges"](https://kay.fasten-your-seat-belts.de/my-courses/software-engineering-2021-22/1404/), we added some a lot of more or less meaning full badges. Probably we have won this (☞ﾟヮﾟ)☞
 
+  <img src="./bilder/meme2.png"/>
+  
 <br><br>
 All the best,<br><br>
 
