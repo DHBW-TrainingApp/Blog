@@ -13,6 +13,9 @@ caption:
 „Niemand kann Dir garantieren, dass du ein Ziel in einer bestimmen Zeit erreichst. Aber du wirst garantiert nie ein Ziel erreichen, das du dir nie gesetzt hast.“
 – David McNally, kanadischer Politikwissenschaftler und Aktivist
 <br><br><br>
+
+<img src="/bilder/retro03052022.png"/>
+
 This week we had another retroperspective. We sat together again and talked about some things and additionally got a lecture from a speaker about Scrum and so on. 
 <br><br>
 Like last time, we were again divided into four groups, which included several project groups. 
