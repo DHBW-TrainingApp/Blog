@@ -6,7 +6,7 @@ subtitle: Retrospective
 caption:
   title: Week 15
   subtitle: Retrospective
-  thumbnail:  https://i.imgflip.com/4witxo.jpg
+  thumbnail:  http://t3.gstatic.com/licensed-image?q=tbn:ANd9GcT_2qbmXAfLrKXvpbJ6x3lVA1fBl8vXtyfiBEYZz_AGvSBT1MdMsF0nQazxPcNw0j-Ox37a8FCoztVqZKUHgHk
 ---
 
 > “If you persevere long enough, if you do the right things long enough, the right things will happen.” ~ Manon Rheaume (the first woman to play in an American men’s pro sports league)
