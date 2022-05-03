@@ -14,8 +14,10 @@ caption:
 – David McNally, kanadischer Politikwissenschaftler und Aktivist
 <br><br><br>
 
+<div align="center">  
 <img style="width:75%;height:75%;" src="./bilder/retro03052022.png"/>
-
+</div>
+<br><br>  
 This week we had another retroperspective. We sat together again and talked about some things and additionally got a lecture from a speaker about Scrum and so on. 
 <br><br>
 Like last time, we were again divided into four groups, which included several project groups. 
