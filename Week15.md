@@ -14,7 +14,7 @@ caption:
 – David McNally, kanadischer Politikwissenschaftler und Aktivist
 <br><br><br>
 
-<img src="retro03052022.png"/>
+<img src="/bilder/retro03052022.png"/>
 
 This week we had another retroperspective. We sat together again and talked about some things and additionally got a lecture from a speaker about Scrum and so on. 
 <br><br>
