@@ -65,7 +65,7 @@ The following table lists our use cases of the last semester:
   </tbody>
 </table>
   <br>  <br>
-As you can see in the table, the last two use cases are crossed out. This is due to the fact that one of our team members left, so we needed to reduce the project scope.</table>
+As you can see in the table, the last two use cases are crossed out. This is due to the fact that one of our team members left, so we needed to reduce the project scope.
   <br> 
 In addition, it is clear that our estimates differed greatly from the real effort. This is due to the fact that some use cases are based on others and we can reuse the source code which increases the development speed. 
  <br>Also before the start of the project we had different experiences with the used technologies. So it is always difficult to give a general estimate if other team members maybe need some more learning in the field. 
