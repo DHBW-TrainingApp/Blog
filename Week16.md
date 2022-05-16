@@ -22,7 +22,7 @@ caption:
   with the help of the examples in the book.
   You can find our repositories at https://github.com/Sebastian-Zok/FowlerRefactoring (Sebastian) and https://github.com/0Raspbinary1/SE_Refactoring (Rouven). 
   The original repository can be found here: https://github.com/gnilkreb/Fowler
-  
+  <br><br><br>
   Additionally we have 2 useful refactoring functions for you, which you can use (in the IDE Eclipse): <br><br>
   
   <ul>
