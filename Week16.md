@@ -33,7 +33,7 @@ caption:
   To format code using the Autoformat function on Windows, press [CTRL]+[SHIFT]+[F] simultaneously. Under MacOS you use the key combination [CMD]+SHIFT]+[F].</li>
   
   <li>Using Rename<br>
-  Rename can be used when you decide to rename a variable for example. The key combination [CTRL]+[SHIFT]+[r] can be used to rename the variable, 
+  Rename can be used when you decide to rename for example a variable. The key combination [CTRL]+[SHIFT]+[r] can be used to rename the variable, 
     at any point where it has been used.</li>
   </ul>
 
