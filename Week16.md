@@ -16,7 +16,6 @@ caption:
   
   This week was all about refactoring. We were supposed to download a repository on github and refactor the example code with the help of a book   
   (http://silab.fon.bg.ac.rs/wp-content/uploads/2016/10/Refactoring-Improving-the-Design-of-Existing-Code-Addison-Wesley-Professional-1999.pdf ) 
-  <br><br>
   and upload this to our own repository on github. The book and the methods in it were supposed to show us how to refactor cleverly using the example. 
   The book also taught us how to cleverly shorten or move code to get a better overview. In the end, it was a matter of applying what we had learned 
   with the help of the examples in the book.
