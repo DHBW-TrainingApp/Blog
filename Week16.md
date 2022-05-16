@@ -10,12 +10,13 @@ caption:
 ---
 
 <div align="left">
-  "The two most powerful warriors are patience and time" – Leo Tolstoy, War and Peace.
+  „Einen von zwei Schmerzen müssen wir ertragen: den Schmerz der Disziplin oder den eines schlechten Gewissens. Der Unterschied ist, Disziplin 
+  wiegt Gramm, ein schlechtes Gewissen wiegt Tonnen.“ – Jim Rohn, US-amerikanischer Motivationstrainer
   
   <br><br>
   
   This week was all about refactoring. We were supposed to download a repository on github and refactor the example code with the help of a book   
-  (http://silab.fon.bg.ac.rs/wp-content/uploads/2016/10/Refactoring-Improving-the-Design-of-Existing-Code-Addison-Wesley-Professional-1999.pdf ) 
+  (<a>http://silab.fon.bg.ac.rs/wp-content/uploads/2016/10/Refactoring-Improving-the-Design-of-Existing-Code-Addison-Wesley-Professional-1999.pdf </a>) 
   and upload this to our own repository on github. The book and the methods in it were supposed to show us how to refactor cleverly using the example. 
   The book also taught us how to cleverly shorten or move code to get a better overview. In the end, it was a matter of applying what we had learned 
   with the help of the examples in the book.
