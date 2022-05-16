@@ -1,4 +1,3 @@
-
 ---
 title: WEEK 16
 subtitle: Refactoring
@@ -7,7 +6,7 @@ subtitle: Refactoring
 caption:
   title: Week 16
   subtitle: Refactoring
-  thumbnail: https://images.freeimages.com/images/large-previews/421/polar-bear-calisthenics-1394792.jpg
+  thumbnail: https://p7x7q5i4.rocketcdn.me/wp-content/uploads/2020/03/refactoring-wissen-kompakt.jpg
 ---
 
 <div align="left">
@@ -20,7 +19,8 @@ caption:
   and upload this to our own repository on github. The book and the methods in it were supposed to show us how to refactor cleverly using the example. 
   The book also taught us how to cleverly shorten or move code to get a better overview. In the end, it was a matter of applying what we had learned 
   with the help of the examples in the book.
-  You can find our repositories at google.de (Sebastian) and google.de (Rouven). The original repository can be found here: google.de
+  You can find our repositories at https://github.com/Sebastian-Zok/FowlerRefactoring (Sebastian) and https://github.com/0Raspbinary1/SE_Refactoring (Rouven). 
+  The original repository can be found here: https://github.com/gnilkreb/Fowler
   
   
 
