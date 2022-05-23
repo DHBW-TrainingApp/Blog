@@ -33,7 +33,9 @@ For example, here’s a short explanation of the Singleton Pattern: an Singleton
   So next we’ are going to show you why our blog post needed so long. And the reason for this is that we didn’t manage to get the prototype to work in our typescript environment. Below you can see some of our tries to implement the code: 
     <br><br>
   
-    Original: calculateDateSums() {
+    Original:
+  ```
+  calculateDateSums() {
       let days = [];
       let date = new Date(this.Tasks[0].date).toDateString();
       let protein = 0;
@@ -77,7 +79,7 @@ For example, here’s a short explanation of the Singleton Pattern: an Singleton
         index = element.index + 1;
       });
     }
-
+```
   <br><br>
 
   All the best,<br><br>
