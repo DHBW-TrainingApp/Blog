@@ -1,12 +1,12 @@
 ---
-title: WEEK 16
-subtitle: Refactoring
+title: WEEK 17
+subtitle: Design Patterns
 
 
 caption:
-  title: Week 16
-  subtitle: Refactoring
-  thumbnail:  https://p7x7q5i4.rocketcdn.me/wp-content/uploads/2020/03/refactoring-wissen-kompakt.jpg
+  title: Week 17
+  subtitle: Design Patterns
+  thumbnail:  https://i.ytimg.com/vi/g4xilXRmg84/maxresdefault.jpg
 ---
 
 > “If you persevere long enough, if you do the right things long enough, the right things will happen.” ~ Manon Rheaume (the first woman to play in an American men’s pro sports league)
