@@ -34,7 +34,7 @@ For example, here’s a short explanation of the Singleton Pattern: an Singleton
     <br><br>
   
     Original:
-  ```
+   ```js
   calculateDateSums() {
       let days = [];
       let date = new Date(this.Tasks[0].date).toDateString();
@@ -79,7 +79,7 @@ For example, here’s a short explanation of the Singleton Pattern: an Singleton
         index = element.index + 1;
       });
     }
-```
+ ```
   <br><br>
 
   All the best,<br><br>
