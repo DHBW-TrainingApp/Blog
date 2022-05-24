@@ -30,7 +30,7 @@ For example, here’s a short explanation of the Singleton Pattern: an Singleton
   <br><br>
   In our example we have a function for an Array which is filled with activities. This function then calculates the sums for each day and puts them in the right position of the array. Instead of calling the function we now want to make a Prototype of the Array Object and add a method for this purpose. Another function for the Array Object that we could consider by implementing as a prototype, would be our custom sorting function, but for the begin we stick with the first one.
   <br><br>
-  So next we are going to show you why our blog post needed so long. And as you can see in the examples below,  we didn’t manage to get the prototype to work in our typescript environment. Fells like a deja-vu with the unit-testing homework.  
+  So next we are going to show you why our blog post needed so long. And as you can see in the examples below,  we didn’t manage to get the prototype to work in our typescript environment. Feels like a deja-vu of the unit-testing homework xD  
     <br><br>
   
     Original function:
