@@ -10,12 +10,14 @@ caption:
 ---
 
 <div align="left">
+  <p>"Never say never because limits, like fears, are often just illusions" ~ Michael Jordan</p><br><br>
+  
   Welcome to another Workout-Log blog post! <br>
-  This week, we are going to have a look on Metrics
+  This week, we are going to have a look on Metrics.
   
 
   
-  <h2>Addendum to the topic Singleton</h2>
+  <h2>A little addendum to the topic Singleton</h2>
 
   The singleton pattern belongs to the category of generation patterns among design patterns. Its purpose is to prevent more than one object from 
   being created by a class. This is achieved by creating the desired object in a class itself then retrieving it as a static instance. The 
@@ -34,9 +36,11 @@ caption:
   typical property of a singleton - because it should not be possible to create an instance of the CrudService object from outside the class.<br><br><br>
 
   
-  <img src="./bilder/singleton.png" /> <br><br>
+  <img src="./bilder/singleton.png" />
+  <p>Singleton class CrudService with a private constructor.</p> <br><br>
   
   <img src="./bilder/deleteFnc_Firebase.png" />
+  <p>An example function of the Singleton class</p>
   
   
 
