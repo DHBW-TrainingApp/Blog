@@ -11,8 +11,8 @@ caption:
 
 <div align="left">
   Welcome to another Workout-Log blog post! <br>
-  This week, we are going to have a look on software design patterns and principles. Both are a crucial part of refactoring for an improved software quality      
-  maintainability and readability. But of course they are not an ultimate solution  and should be carefully considered before implementing. 
+  This week, we are going to have a look on Metrics
+  
 
   
   <h2>Addendum to the topic Singleton</h2>
