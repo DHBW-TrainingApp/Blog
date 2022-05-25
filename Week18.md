@@ -17,13 +17,13 @@ caption:
   
 
   
-  <h2>A little addendum to the topic Singleton</h2>
+  <h4>A little addendum to the topic Singleton</h4>
 
   The singleton pattern belongs to the category of generation patterns among design patterns. Its purpose is to prevent more than one object from 
   being created by a class. This is achieved by creating the desired object in a class itself then retrieving it as a static instance. The 
   singleton is one of the simplest, but most powerful patterns in software development. <br>
   
-  <h2>What are the properties of the Singleton pattern?</h2>
+  <h4>What are the properties of the Singleton pattern?</h4>
 
   If an instance of a class was created with the Singleton design pattern, it ensures that it really only remains with this single instance. The 
   Singleton makes this class globally accessible in the software. For this there are different methods in the programming languages. So that it 
@@ -44,7 +44,7 @@ caption:
   
   
 
-  
+  <br><br><br>
   All the best,<br><br>
 
   Your workout-log team!<br><br><br><br><br>
