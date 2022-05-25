@@ -6,7 +6,7 @@ subtitle: Metrics
 caption:
   title: Week 18
   subtitle: Metrics
-  thumbnail:  https://i.ytimg.com/vi/g4xilXRmg84/maxresdefault.jpg
+  thumbnail:  https://www.klipfolio.com/gatsby-files/static/7721c85f5a680451ac9bdb2b2c849101/554d7/metrics.jpg
 ---
 
 > “If you persevere long enough, if you do the right things long enough, the right things will happen.” ~ Manon Rheaume (the first woman to play in an American men’s pro sports league)
