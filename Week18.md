@@ -34,9 +34,9 @@ caption:
   typical property of a singleton - because it should not be possible to create an instance of the CrudService object from outside the class.<br><br><br>
 
   
-  <img href="./bilder/singleton.png" /> <br><br>
+  <img src="./bilder/singleton.png" /> <br><br>
   
-  <img href="./bilder/deleteFnc_Firebase.png" />
+  <img src="./bilder/deleteFnc_Firebase.png" />
   
   
 
