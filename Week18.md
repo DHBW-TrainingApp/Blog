@@ -6,7 +6,7 @@ subtitle: Metrics
 caption:
   title: Week 18
   subtitle: Metrics
-  thumbnail: https://miro.medium.com/max/750/1*94oOQoivKfh4h6sFW7S1iQ.jpeg
+  thumbnail: https://www.klipfolio.com/gatsby-files/static/7721c85f5a680451ac9bdb2b2c849101/554d7/metrics.jpg
 ---
 
 <div align="left">
