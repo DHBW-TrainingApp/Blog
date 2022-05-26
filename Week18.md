@@ -17,8 +17,8 @@ caption:
   
 
   
-  <h4>A little addendum to the topic Singleton</h4>
-
+  <h4>But First: A little addendum to our last blog post about design patterns</h4>
+  As you know we didn't figured out how to implement the prototype design pattern, so we are going to show you how we used the singleton pattern straight from the beginning of our project. <br>
   The singleton pattern belongs to the category of generation patterns among design patterns. Its purpose is to prevent more than one object from 
   being created by a class. This is achieved by creating the desired object in a class itself then retrieving it as a static instance. The 
   singleton is one of the simplest, but most powerful patterns in software development. <br>
@@ -31,7 +31,7 @@ caption:
   the pattern as "private". This means that only the code in the singleton can instantiate the singleton itself. This guarantees that only one and 
   the same object can ever reach the user. If this instance already exists, no new one is created. Our Singleton is called "CrudService". <br> <br>
   
-  We created the CurdService class to create methods for communicating with Firebase. The class contains various methods such as the delete function to 
+  We created the Crud-Service class to create methods for communicating with Firebase. The class contains various methods such as the delete function to 
   remove entries from the list. Below you can see the singleton class and the delete function. As mentioned earlier, the constructor is private - a 
   typical property of a singleton - because it should not be possible to create an instance of the CrudService object from outside the class.<br><br><br>
 
@@ -43,7 +43,37 @@ caption:
   <p>An example function of the Singleton class</p>
   
   
+  <h2>But now let's have a look on metrics</h2>
+  For this we used the cloud service SonarCloud and implemented it into our build pipeline. The setup with GitHub actions was very pleasant<br> 
+  In our configuration yaml you can see how we achieved the setup:  https://github.com/DHBW-TrainingApp/workout-log/blob/main/.github/workflows/main.yml
+  <br>
+  And <a href="https://sonarcloud.io/project/overview?id=DHBW-TrainingApp_workout-log">here</a> you can have a look on the report that's created by SonarCloud. As you can see our code passed the test, with only 8 bugs, 87 Code Smells and 2 Security Hotspots. After excluding all the dependencies from the framework and just analysing our own code, we even get rid of the Security Hotspots and two code smells, while we still have 3.3% of code duplication.   
+  
+   <h4>Code duplication</h4>
+  One metric is code duplication that shows how many lines of code occurs more then one time, which makes the programm lengthy and bulky. Often duplicated code is a side effect of cooking spaghetti and makes it hard to fix a bug because it occures on multiple locations. Anyways, we decided to still keep the duplicated lines, because they are only on two locations inside of html-files, where the update and the create form are equally. So its not a big deal. 
+  
+     <h4>Bugs</h4>
+  As the Code analysis shows we have 8 bugs in our code. Four minor and four major ones. <br>
+ One of the  major bugs occures in a auto generated test, where the map method is called, while the return value is ignored. As we didn't write the line it is propably better to just leave it as it is.
+  <br><br>
+  The other three major bugs are related to the fact that we are using a custom font, without providing a generic font like Sans as fallback option, while many browsers propably don't support our custom font. As we are planning to create an app, the font will always be available bundeled inside the application, so this isn't a real problem.  
+    <br><br>
+  The other minor bugs are realted to missing alt text for images and using <b> instead of the more generic <strong> tag. So also this bugs don't effect us at all, as we are going to create an app.
+  <br>
+  But anyway, <a href="https://github.com/DHBW-TrainingApp/workout-log/commit/1678215b702c48bedf65886cdfa8ec90821e2b13">here</a> is our commit for increasing the code quality.  
+  
+  <br><br>
+    <h4>Vulnerabilities</h4>
+  One of the most, if not the most, important metric is about security vulnerabilities. Exploits like log4J showed how vulnerable the whole ecosystem was and will be. Did you know that alone in Germany the economical damage through cyberattacks is estimated to be around 200 BILLION!!!
+  With this fact in mind it is very disappointing that SonarCloud didn't find any vulnerabilities in our code. Propably you ask yourself now: Isn't it a good sign if there are any vulnerabilities? <br> Of course, but only if it whould be true :-) <br> <br>
+    <img src="https://hungarytoday.hu/wp-content/uploads/2018/02/18ps27.jpg"/>
+  <br> <br>
+  
+  Through GitHub's dependabot we already know that our code has 31 vulnerabilities through obsolete dependecies. And as SonarCloud has access to our package.json its some sort of a shame that it did't also checked the dependecies. Luckily GitHub is so awesome and checks repositories automatically <3
 
+<br> 
+  So if we are planning to release our app, we will of course fix all of the vulnerabilities. So you can use the app with peace in mind.
+  
   <br><br><br>
   All the best,<br><br>
 
