@@ -58,7 +58,7 @@ caption:
   <br><br>
   The other three major bugs are related to the fact that we are using a custom font, without providing a generic font like Sans as fallback option, while many browsers propably don't support our custom font. As we are planning to create an app, the font will always be available bundeled inside the application, so this isn't a real problem.  
     <br><br>
-  The other minor bugs are realted to missing alt text for images and using <b> instead of the more generic <strong> tag. So also this bugs don't effect us at all, as we are going to create an app.
+  The other minor bugs are realted to missing alt text for images and using b (bold) instead of the more generic strong tag. So also this bugs don't effect us at all, as we are going to create an app.
   <br>
   But anyway, <a href="https://github.com/DHBW-TrainingApp/workout-log/commit/1678215b702c48bedf65886cdfa8ec90821e2b13">here</a> is our commit for increasing the code quality.  
   
