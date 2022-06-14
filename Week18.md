@@ -73,6 +73,10 @@ caption:
 
 <br> 
   So if we are planning to release our app, we will of course fix all of the vulnerabilities. So you can use the app with peace in mind.
+  <br><br>
+   <h4>Installation</h4>
+  <br>
+  If you want you can go and install workout-log already. Just download our repo and hit npm i. After that you can have a look on our app through the 'ionic serve' command inside the browser (Of course you need to have ionic installed). If you want to test on a real device, just type in 'ionic capacitor build android'. After that Android studio will open up with our ionic project inside. From here you can compile the app and bundle it to an APK. You can also connect your device through USB-Debugging and just press the play button. Than Android Studio will upload the APK onto your device and run it from alone. Its also possible to just use a emulator inside the android studio. <br>If you want to debug the app on a native device, you can use the Chrome devtools. Just keep you USB-Debugging connection, open  the app on your phone and enter the following link chrome://inspect/#devices into the chrome browser on your PC. Now you will see a list where the workout-log app is listed. Just press on inspect and you will be able to use the chrome dev tools just how you know them from the  browser.
   
   <br><br><br>
   All the best,<br><br>
