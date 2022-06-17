@@ -119,31 +119,31 @@ presentation files. If something looks corrupted or wrong, simply let us know in
      <a href="https://dhbw-trainingapp.github.io/Blog/Week10" style="color:DarkOrange">Midterm</a>
   </li>
   <li>
-     <a href="https://dhbw-trainingapp.github.io/Blog/Week10" style="color:DarkOrange">New Semester!</a>
+     <a href="https://dhbw-trainingapp.github.io/Blog/Week11" style="color:DarkOrange">New Semester!</a>
   </li>
   <li>
-     <a href="https://dhbw-trainingapp.github.io/Blog/Week10" style="color:DarkOrange">Risk Management</a>
+     <a href="https://dhbw-trainingapp.github.io/Blog/Week12" style="color:DarkOrange">Risk Management</a>
   </li>
   <li>
-     <a href="https://dhbw-trainingapp.github.io/Blog/Week10" style="color:DarkOrange">Story Points</a>
+     <a href="https://dhbw-trainingapp.github.io/Blog/Week13" style="color:DarkOrange">Story Points</a>
   </li>
   <li>
-     <a href="https://dhbw-trainingapp.github.io/Blog/Week10" style="color:DarkOrange">Unit testing (Argh!)</a>
+     <a href="https://dhbw-trainingapp.github.io/Blog/Week14" style="color:DarkOrange">Unit testing (Argh!)</a>
   </li>
   <li>
-     <a href="https://dhbw-trainingapp.github.io/Blog/Week10" style="color:DarkOrange">Retrospective</a>
+     <a href="https://dhbw-trainingapp.github.io/Blog/Week15" style="color:DarkOrange">Retrospective</a>
   </li>
   <li>
-     <a href="https://dhbw-trainingapp.github.io/Blog/Week10" style="color:DarkOrange">Refactoring</a>
+     <a href="https://dhbw-trainingapp.github.io/Blog/Week16" style="color:DarkOrange">Refactoring</a>
   </li>
   <li>
-     <a href="https://dhbw-trainingapp.github.io/Blog/Week10" style="color:DarkOrange">Disign Patterns</a>
+     <a href="https://dhbw-trainingapp.github.io/Blog/Week17" style="color:DarkOrange">Disign Patterns</a>
   </li>
   <li>
-     <a href="https://dhbw-trainingapp.github.io/Blog/Week10" style="color:DarkOrange">Metrics</a>
+     <a href="https://dhbw-trainingapp.github.io/Blog/Week18" style="color:DarkOrange">Metrics</a>
   </li>
   <li>
-     <a href="https://dhbw-trainingapp.github.io/Blog/Week10" style="color:DarkOrange">Written Hand-in</a>
+     <a href="https://dhbw-trainingapp.github.io/Blog/Week19" style="color:DarkOrange">Written Hand-in</a>
   </li>
 </ul>
      
