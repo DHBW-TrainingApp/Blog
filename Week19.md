@@ -135,6 +135,9 @@ presentation files. If something looks corrupted or wrong, simply let us know in
   <li>
      <a href="https://dhbw-trainingapp.github.io/Blog/Week19" style="color:DarkOrange">Written Hand-in</a>
   </li>
+  <li>
+     <a href="https://dhbw-trainingapp.github.io/Blog/Week18#installation" style="color:DarkOrange">Install the App</a>
+  </li>
 </ul>
      
 <h3>YouTrack</h3>
