@@ -37,16 +37,6 @@ presentation files. If something looks corrupted or wrong, simply let us know in
     </li>
     </ul>
   
-<h3>Presentation</h3>
-<ul>
-  <li>
-  <a href="https://docs.google.com/presentation/d/1A5A3ChnkqPDPrrI0gYowFCCOQfWaCTfa/edit#slide=id.p2" style="color:DarkOrange">Slides</a>
-    </li>
-    <li>
-  <a href="https://docs.google.com/document/d/1YDyeP_-aZmAnObkOPFA6jcTRHUs0F8J4FFrA7vH2zqs/edit" style="color:DarkOrange">Handout</a>
-    </li>
-    </ul>
-  
 <h3>Use Case Diagram</h3>
 <ul>
   <li>
