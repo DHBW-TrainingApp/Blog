@@ -5,11 +5,11 @@
   ¨Great achievement is usually born of great sacrifice, and is never the result of selfishness" <br><br>
   
  
-  </br>  <div style="text-align: center">
+  <br>  <div style="text-align: center">
    <img src="https://i.gifer.com/fxt5.gif" alt="party"/></div>
-    </br>
+    <br>
   
-<h1> Written Hand-in </h1> 
+<h1>Final Blog Post: Written Hand-in</h1> 
 Finally the semester is over and we are able to present you our achivements. You’ll get an overview over our documentation, our prototype and the 
 presentation files. If something looks corrupted or wrong, simply let us know in the comment section below. Thanks!<br><br><br>
   
@@ -200,8 +200,8 @@ presentation files. If something looks corrupted or wrong, simply let us know in
   </li>
 </ul>
 
-
-
+<br>
+Thanks for all the help and the numerous excellent comments. It was a pleasure to work with you over the last two semesters and hopefully we will see each other again in the last year of our studies.
 <br><br>
      
 All the best,<br><br>
