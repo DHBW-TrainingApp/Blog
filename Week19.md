@@ -112,13 +112,6 @@ presentation files. If something looks corrupted or wrong, simply let us know in
 <h3>Risk-Management</h3>
 <ul>
   <li>
-     <a href="https://dhbw-karlsruhe.myjetbrains.com/youtrack/articles/WL-A-1/RISK-MANAGEMENT" style="color:DarkOrange">GitHub-Actions</a>
-  </li>
-</ul>
-
-<h3>Risk-Management</h3>
-<ul>
-  <li>
      <a href="https://dhbw-karlsruhe.myjetbrains.com/youtrack/articles/WL-A-1/RISK-MANAGEMENT" style="color:DarkOrange">Risk Table</a>
   </li>
 </ul>
