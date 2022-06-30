@@ -98,7 +98,16 @@ presentation files. If something looks corrupted or wrong, simply let us know in
 <h3>YouTrack</h3>
 <ul>
   <li>
-     <a href="https://dhbw-karlsruhe.myjetbrains.com/youtrack/agiles/108-133/current" style="color:DarkOrange">Link</a>
+     <a href="https://dhbw-karlsruhe.myjetbrains.com/youtrack/dashboard?id=5317806e-3f65-4c36-908f-846c819b82b5" style="color:DarkOrange">Dashboard</a>
+  </li>
+    <li>
+     <a href="https://dhbw-karlsruhe.myjetbrains.com/youtrack/reports/cumulativeFlow/143-125" style="color:DarkOrange">Cumulative Flow</a>
+  </li>
+    <li>
+     <a href="https://dhbw-karlsruhe.myjetbrains.com/youtrack/reports/timeSheet/160-55" style="color:DarkOrange">Time Sheet</a>
+  </li>
+    <li>
+     <a href="https://dhbw-karlsruhe.myjetbrains.com/youtrack/agiles/108-133/current" style="color:DarkOrange">Agile board</a>
   </li>
 </ul>
 
