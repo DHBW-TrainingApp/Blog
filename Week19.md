@@ -80,7 +80,7 @@ presentation files. If something looks corrupted or wrong, simply let us know in
     <h3>Architecture</h3>
 <ul>
   <li>
-     <a href="https://dhbw-trainingapp.github.io/Blog/bilder/IMG-20211205-WA0002.jpg" style="color:DarkOrange">Report</a>
+     <a href="https://dhbw-trainingapp.github.io/Blog/bilder/IMG-20211205-WA0002.jpg" style="color:DarkOrange">Diagram</a>
   </li>
 </ul>
      
